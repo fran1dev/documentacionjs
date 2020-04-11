@@ -1,2 +1,2 @@
 # landing
-esuna web
+es una web
